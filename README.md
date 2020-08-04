@@ -8,10 +8,10 @@ This repository is the Graduation Portfolio Milestone for my master's degree of 
 ## Table of Content
 
 ### 1. Paper: Portfolio 
-[Paper-link](https://github.com/dev5680/Data-Science-Portfolio/blob/master/Portfolio/Debasis_Chatterjee_Portfolio.pdf) 
+[Paper-link](https://github.com/dev5680/MS_Data-Science-Portfolio/blob/master/Portfolio/Debasis_Chatterjee_Portfolio.pdf) 
   - This paper is basically a summary of what I have learned during the 2 years in the master's program of Applied Data Science.
 
-### 2. [Professional Resume](https://github.com/dev5680/Data-Science-Portfolio/blob/master/Resume/Debasis_Chatterjee_Resume.pdf)
+### 2. [Professional Resume](https://github.com/dev5680/MS_Data-Science-Portfolio/blob/master/Resume/Debasis_Chatterjee_Resume.pdf)
   - The resume is updated on Aug 2020.
 
 ### 3. Academic Projects
